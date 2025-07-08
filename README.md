@@ -1,4 +1,4 @@
-# Klaasifikasi-Stunting-Naive-Baiyes
+# Klasifikasi-Stunting-Naive-Baiyes
 
 Proyek ini adalah implementasi dari algoritma kecerdasan buatan untuk mengklasifikasikan status gizi anak (Stunting atau Normal). Aplikasi desktop dibangun menggunakan Python dengan library Tkinter untuk antarmuka pengguna (GUI).
 
